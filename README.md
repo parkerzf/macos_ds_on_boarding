@@ -20,5 +20,5 @@ Check "Use option key as meta key."
 ```
 
 ## Authors
-* Haixiang Liu (Add Email)
+* Haixiang Liu 
 * Feng Zhao
